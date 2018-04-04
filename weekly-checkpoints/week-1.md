@@ -27,7 +27,7 @@ Hope to discuss these at today's meeting for clarification on how to move forwar
 
 > Want to check that https://github.com/prettier/prettier would be a good candidate for a real Docusaurus site?
 
-Yangshun: Prettier is currently already using Docusaurus 😄
+Yangshun: Yes, but it also depends on the type of task you are working on. If it's a small, localized task, there's probably no need to test using a full site like Prettier - It'll slow you down instead because you might need to rebuild the entire site. It's a good thought and definitely useful for preventing regression bugs for tasks that affect multiple parts of the site.
 
 > https://github.com/facebook/Docusaurus/issues/227 Always seems good to start with a bug fix to get accustomed to the repo. Maybe this one? Renaming versions doesn't change version in the sidebar.
 
