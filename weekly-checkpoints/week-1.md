@@ -13,8 +13,6 @@ Please answer yes/no to the following:
 
 Please mention the work you did this week. A good status update will mention the things you learned, the things you tried (both what worked and what didn't); and the things you did. As an example:
 
-> This week I worked on Issue #123 (link here). I tried to use approach X, but it didn't work because of Y. I then reached out to the maintainer and he told me to try Z. That worked and I put up a pull request #456 (link here).
-
 - [x] [Unit 1 - Basics: Getting comfortable with Git and GitHub](https://www.facebook.com/groups/ossmentorship/learning_content/?filter=662333824156547) This unit was pretty straightfoward. 👍
 - [x] [Unit 2 - Project: F8 App](https://www.facebook.com/groups/ossmentorship/learning_content/?filter=162143457744403) I followed the instructions but it seems like this unit should be N/A for the program now that Parse is no longer a thing? Can't log in at the Parse Dashboard http://localhost:4040/apps/F8/.
 - [x] [Unit 3 - Project: Docusaurus](https://www.facebook.com/groups/ossmentorship/learning_content/?filter=916381401865001) Ran into some weirdness, which I noted [here](https://github.com/amyrlam/docusaurus-starter-kit/commit/ef86fdca64ff6fa6e9f4d67f25e6bdf00c03c2df). It didn't seem to matter too much, since it seemed like it would be a lot easier to test Docusaurus through Prettier or another open source repo with more content in there. 
@@ -24,8 +22,6 @@ Please mention the work you did this week. A good status update will mention the
 ## Plan
 
 Summarize what you plan on learning or working on in the next week, and if there are any concerns you have about the plan. As an example:
-
-> I plan on investigating if approach X will help me with Issue Y (link here). I'm concerned about [some concern here].
 
 Hope to discuss these at today's meeting for clarification on how to move forward!
 
