@@ -6,6 +6,7 @@ Weekly checkpoints help you set context for your 1:1 with your mentor so you can
 
 1. [Week 1](week-1.md)
 1. [Week 2](week-2.md)
+1. [Week 3](week-3.md)
 
 ## Steps for adding checkpoints
 
