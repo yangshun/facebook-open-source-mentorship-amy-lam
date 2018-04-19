@@ -45,6 +45,7 @@ Summarize what you plan on learning or working on in the next week, and if there
 
 ## Meeting Notes
 
+- Amy is now within the top 10 contributors of Docusaurus! 🎉
 - Yangshun has done further research and realized that because Docusaurus is a static site and React is used more like a templating engine rather than a client-side view library. There isn't much value in pursuing React tasks/related work.
 - We have decided on live reload being the bigger feature for the second half of the program.
 - Amy will start researching on live reload by looking at https://github.com/napcs/node-livereload and try to integrate live reload in one of her own projects.
