@@ -37,7 +37,7 @@ Yangshun: It's a good starting point!
 
 Yangshun: There seems to be a lot of work to be done here. That said, writing tests require good understanding of the code base, existing features and can get quite dry to work on after a while. Bug fixes would be preferred for quicker gratification and feedback.
 
-> https://github.com/facebook/Docusaurus/issues/356 Improve <table> styling.
+> https://github.com/facebook/Docusaurus/issues/356 Improve `<table>` styling.
 
 Yangshun: This task allows you to exercise your creativity! Pretty cool. Note that because it's open-ended, it might take longer for reviews. For such tasks, it's better to come up with a mockup/prototype UI of the design and get signing off from the project maintainers before writing code for it.
 
