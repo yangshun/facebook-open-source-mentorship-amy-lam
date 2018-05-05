@@ -14,7 +14,11 @@ Please answer yes/no to the following:
 
 * PR'd [Update deprecated GitHub Buttons data-count-api](https://github.com/facebook/Docusaurus/pull/616), noticed while working on the copy feature, got it merged
 
+Yangshun: Well done!
+
 * PR'd [On mobile, hide title if logo exists](https://github.com/facebook/Docusaurus/pull/629) and got it merged.
+
+Yangshun: This was done very fast :clap:
 
 In progress:
 
@@ -24,11 +28,17 @@ In progress:
   * Joel mentioned at F8 to feel free to just post WIP's on the main Docusaurus. Also, the new preview feature is awesome! Posted my [WIP PR](https://github.com/facebook/Docusaurus/pull/634) here with questions.
   * 👉 Need to follow up on the comments here.
 
+Yangshun: Upon further investigation, it seems that the existing Docusaurus infrastructure does not allow us to implement this in an elegant fashion. Let's KIV on this. I'll make a PR this weekend that helps with this.
+
 * I started to work on the [LiveReload feature](https://github.com/facebook/Docusaurus/issues/234). Here is my [WIP PR](https://github.com/amyrlam/Docusaurus/pull/2). Learned that I was wrong about LiveReload all along (think it may have been human error than a system-wide LiveReload issue).
   * 👉 Need to look into: "Refer to https://github.com/livereload/livereload-js for how to add code on the client side."
+
+Yangshun: I'll set up a small project for you to integrate LiveReload as practice. After doing that, you would gain a better understanding of how LiveReload works and be in a better position to integrate it into Docusaurus.
 
 ## Plan
 
 * Just focus on the most important tasks: copy functionality and LiveReload. Then adding tests. To me at the moment, these seem like the ones that provide an opportunity to learn.
 * Audit our spreadsheet when those are done.
 * Learn more about how Docusaurus works for other repos.
+
+Yangshun: We can make PRs to Docusaurus users to update the versions of Docusaurus that they are using.
