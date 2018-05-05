@@ -1,0 +1,11 @@
+{
+  "name": "file-dir-over-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "remarkable": "^1.7.1"
+  }
+}
