@@ -7,5 +7,9 @@
     "express": "^4.15.4",
     "lodash": "^4.17.4",
     "remarkable": "^1.7.1"
+  },
+  "devDependencies": {
+    "gaze": "^1.1.2",
+    "tiny-lr": "^1.1.1"
   }
 }
